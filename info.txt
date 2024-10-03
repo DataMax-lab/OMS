@@ -1,1 +1,1 @@
-project info2
+project info1 dev1
